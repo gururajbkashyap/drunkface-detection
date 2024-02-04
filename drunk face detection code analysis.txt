@@ -1,0 +1,7 @@
+DRUNK FACE IDENTIFICATION SYSTEM
+
+
+The code above mentioned is used to detect drunkpeople faces. This is achieved by open cv ,numpyand MTCNN algorithm.
+First we will build a mtcnn algorithm and then will train it using computer vision and give the difference between drunk person face  and a not drunk person face.
+then the next code will detect the human face and then put a square shape around it and will print whether the person is drunk or not 10 times a secong i.e,1 message pe milli second.
+Thecode after that will try to compress those numerous messages into a one single message by  using while if and else statements,this code will analyse the image for 5 seconds or the time specified and then print a single message whether the person has drunk or not by using the already existing data which was collected during the training phase.
